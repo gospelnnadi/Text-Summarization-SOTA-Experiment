@@ -1,0 +1,1 @@
+deep neural networks ( dnns) have been receiving ubiquitous success in wide applications. The ratio between the increased model size and the improved performance should be considered given limited online resources. There are mainly two types of dnn compression methods , which could be used in conjunction for better parameter savings.

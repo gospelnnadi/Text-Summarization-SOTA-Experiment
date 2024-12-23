@@ -1,0 +1,5 @@
+</s> additive models provide an important family of models for semiparametric regression or classification. some reasons for the success of additive models are their increased flexibility when compared to linear or generalized linear models and their increased interpretability when compared to fully nonparametric models. 
+ it is well - known that good estimators in additive models are in general less prone to the curse of high dimensionality than good estimators in fully nonparametric models. 
+ many examples of such estimators belong to the large class of regularized kernel based methods over a reproducing kernel hilbert space. in this paper 
+ we address the open question, whether an svm with an additive kernel can provide a substantially better learning rate in high dimensions than an svm with a general kernel, say a classical gaussian rbf kernel, if the assumption of an additive model is satisfied. 
+ our leading example covers learning rates for quantile regression based on the lipschitz continuous but non - differentiable pinball loss function, which is also called check function in the literature. </s>

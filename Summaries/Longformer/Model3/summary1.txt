@@ -1,0 +1,5 @@
+</s><s><s><s> regularized kernel based methods based on a general convex and lipschitz continuous loss function and a general kernel are often called support vector machines ( svms ). in this paper 
+ we address the open question of whether an svm with an additive kernel can provide a substantially better learning rate in high dimensions than an svms with a classical gaussian rbf kernel, if the assumption of an additive model is satisfied. 
+ our leading example covers learning rates for quantile regression based on the lipschitzer continuous but non - differentiable pinball loss function, which is also called check function in the literature. to illustrate advantages of additive models 
+, we provide two examples of comparing additive with product kernels. in the first example 
+ the learning rates are asymptotic behaviors of the excess risk with the form @xcite and in the second example they are about the learning rate for the regularization scheme ( [ algor ] ). </s>

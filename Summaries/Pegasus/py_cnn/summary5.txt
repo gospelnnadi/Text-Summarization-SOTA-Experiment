@@ -1,0 +1,1 @@
+An automated edge finishing apparatus and method of the present invention comprises hardware components and associated software .<n>The preferred invention comprises an xilal table , a force control sensor and a control board .

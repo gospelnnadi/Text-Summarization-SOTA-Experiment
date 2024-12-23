@@ -1,0 +1,1 @@
+In this paper we focus on improving the performance of deep networks by compressing their model size.

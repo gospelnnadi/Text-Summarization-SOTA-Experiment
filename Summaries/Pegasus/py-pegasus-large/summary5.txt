@@ -1,0 +1,1 @@
+the preferred invention comprises an xy table 10, a force sensor 12, cutting tool 14, xy table position control hardware 32, and a control system as shown in fig2. the innermost level of table control is position control, by a controller 32 such as a dmc - 520 motion controller from galil motion control, as shown in fig2.

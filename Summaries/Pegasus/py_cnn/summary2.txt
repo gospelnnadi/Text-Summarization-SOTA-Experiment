@@ -1,0 +1,1 @@
+Deep neural networks ( dnns) have been receiving ubiquitous success in wide applications .<n>People usually have to increase the number of parameters in dnns so as to absorb the vast volume of supervision .<n>High computing techniques are investigated to speed up dnn training .

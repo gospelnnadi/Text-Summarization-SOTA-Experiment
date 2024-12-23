@@ -1,0 +1,1 @@
+compressing the model size becomes more important for applications on mobile and embedded devices xcite. however, the energy consumption of battery - constrained mobile devices is usually dominated by memory access, which would be greatly saved if a dnn model can fit in on - chip storage rather than dram storage ( c.f.

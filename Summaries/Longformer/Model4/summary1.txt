@@ -1,0 +1,1 @@
+</s> In this paper, we show that an additive model can provide a substantially better learning rate in high dimensions than an svm with a general kernel. We also show that the learning rate is better than that of a linear model. The study is based on the assumption that the model is valid. We conclude that this is true and that it can be used to improve learning rates.</s>
